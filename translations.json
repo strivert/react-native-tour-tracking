@@ -1,0 +1,1370 @@
+{
+    "Welcome to our Nature-Based Tourism App! ": {
+        "en": "Welcome to our Nature-Based Tourism App!",
+        "es": "¡Bienvenido a nuestra App sobre Turismo natural!",
+        "fi": "Tervetuloa luontomatkailusovellukseemme!",
+        "it": "Benvenuto alla nostra applicazione su turismo naturalistico!",
+        "de": "Herzlich willkommen zu unserer Natur-Erleben App!",
+        "nb": "Velkommen til vår app om naturbasert turisme!",
+        "fr": "Bienvenue à notre Application sur le Tourisme Vert!"
+    },
+    "We want to improve nature-based tourism in Norway. We appreciate if you could spend a few minutes to map your sites and share your experiences. ": {
+        "en": "We want to improve nature-based tourism in Norway. We appreciate if you could spend a few minutes to map your sites and share your experiences.",
+        "es": "Nos gustaría mejorar el turismo natural en Noruega. Agradeceríamos que utilizases unos minutos para registrar los lugares que vas a visitar y compartir tus experiencias.",
+        "fi": "Haluamme parantaa luontomatkailua Norjassa. Olemme kiitollisia jos voit käyttää muutaman minuutin jakaaksesi käyntikohteesi ja kokemuksesi.",
+        "it": "Vorremo migliorare il turismo naturalistico in Norvegia. Ti saremmo grati se potessi dedicare alcuni minuti per registrare i luoghi che visiterai e condividere le tue esperienze.",
+        "de": "Es ist unser Anliegen naturnahen Tourismus in Norwegen zu fördern. Deshalb würden wir dich bitten einige Minuten damit zu verbringen deine Aufenthaltsorte zu kartografieren und deine Erlebnisse mit uns zu teilen.",
+        "nb": "Vi har svært lyst til å forbedre den naturbaserte turismen i Norge. Vi ville vært takknemlig om du kunne brukt noen få minutter til å kartlegge stedene du har besøkt og dele dine erfaringer.",
+        "fr": "Nous voulons améliorer le Tourismse Vert en Norvège et nous apprecirions si vous pouviez donner quelques minutes de votre temps pour cartographier vote site internet et partager vos expériences. "
+    },
+    "Your data will be treated with confidentially and according to standards set by the data protection regulations in Norway. Please continue to the consent page.": {
+        "en": "Your data will be treated with confidentially and according to standards set by the data protection regulations in Norway. Please continue to the consent page ",
+        "es": "Los datos son confidenciales de acuerdo con la Ley de protección de datos de Noruega. Por favor, haz click en “Empezar” para continuar a la página sobre nuestra política de confidencialidad.",
+        "fi": "Tietojasi käsitellään luottamuksellisesti ja Norjan tietosuojakäytäntöjen ja -standardien mukaisesti. Ole hyvä ja jatka sitoumussivulle.",
+        "it": "L'informazione sarà riservata, nel pieno rispetto della normativa di protezione dei dati personali di Norvegia. Vi preghiamo di fare clic su.",
+        "de": "Alle Informationen werden vertraulich und gemäß der norwegischen Standards für Daten- und Personenschutz gehandhabt. Fahr bitte mit der Einwilligungserklärung fort.",
+        "nb": "Ditt bidrag vil behandles anonymt og i tråd med retningslinjene for data- og personvern i Norge. Vennligst gå videre til neste side for å gi ditt samtykke.",
+        "fr": "Vos informations seront traitées de manière confidentielle selon les standards établis par la législation sur la protection des informtations numériques de Norvège."
+    },
+    "Start": {
+        "en": "Start",
+        "es": "Empezar",
+        "fi": "Aloita",
+        "it": "Cominciare",
+        "de": "Start",
+        "nb": "Start",
+        "fr": "Démarrer le programme"
+    },
+    "Instructions": {
+        "en": "Instructions",
+        "es": "Instrucciones",
+        "fi": "Ohjeet",
+        "it": "Istruzioni",
+        "de": "Anleitung",
+        "nb": "Instruksjoner",
+        "fr": "Instructions "
+    },
+    "Learn more about us here": {
+        "en": "Learn more about us here",
+        "es": "Descubre más sobre nosotros aquí",
+        "fi": "Lue meistä lisää täältä",
+        "it": "Clicca qui per saperne di più su noi",
+        "de": "Erfahre über unser Projekt",
+        "nb": "Få mer informasjon om oss her",
+        "fr": "Pour en savoir plus sur nous"
+    },
+    "Please follow these instructions:": {
+        "en": "Please follow these instructions:",
+        "es": "Sigue las instrucciones a continuación:",
+        "fi": "Ole hyvä ja noudata näitä ohjeita:",
+        "it": "Segui le seguenti istruzioni",
+        "de": "Folge bitte den folgenden Anweisungen:",
+        "nb": "Vennligst følg disse intruksjonene:",
+        "fr": "Veuilliez suivre ces instructions"
+    },
+    "1. Sign the confidentiality consent.": {
+        "en": "1. Sign the confidentiality consent.",
+        "es": "1. Acepta el términos de confidencialidad",
+        "fi": "1. Allekirjoita sitoomus",
+        "it": "1. Accetti i termini di privacy",
+        "de": "1. Unterschreibe die Einwilligungserklärung",
+        "nb": "1. Signér samtykke om konfidensialitet",
+        "fr": "1. Signer la clause de confidentialité "
+    },
+    "2. Complete a short survey with demographic variables. ": {
+        "en": "2. Complete a short survey with demographic variables.",
+        "es": "2. Completa el cuestionario sobre variables demográficas.",
+        "fi": "2. Täytä lyhyt väestötietokysely.",
+        "it": "2. Compili il questionario su variabili demografiche",
+        "de": "2. Fülle einen kurzen Fragebogen über deine demographischen Verhältnisse aus.",
+        "nb": "2. Fyll ut en kort demografisk spørreundersøkelse.",
+        "fr": "2. Complétez un court questionnaire à variantes démographiques "
+    },
+    "3. Track your activity. The activity could take from few minutes jogging, fishing, hiking… to several days backpacking in nature for several days. Do not stop tracking until you completely finish the activity. Mark interesting waypoints and tag non-material benefits.": {
+        "en": "3. Track your activity. The activity could take from few minutes jogging, fishing, hiking… to several days backpacking in nature for several days. Do not stop tracking until you completely finish the activity. Mark interesting waypoints and tag non-material benefits.",
+        "es": "3. Registra tu actividad. La actividad realizada puede ser desde minutos correr, pescar, paseos… hasta varios días acampadas en la naturaleza durante varios días. No pares el registro hasta que hayas completado la actividad. Marca puntos interesantes y asígnales etiquetas con los beneficios que ese lugar te aporte.",
+        "fi": "3. Seuraa ja tallenna jokin luontomatkailutoimintosi. Toiminto voi kestää minuuteista lenkkeily, kalastus, retkeily päiviin vaellus. Jatka toiminnon seurantaa sen koko keston ajan. Merkitse kiinnostavat reittipisteet ja niiden aineettomat hyödyt.",
+        "it": "3. Registra la tua attività. Può essere un’attività di minuti correre, pescare, passeggiare... oppure di diversi giorni campeggiare nella natura per alcuni giorni. Non smetti il registro fino ad aver completato l’attività. Segni punti interessanti etichettandoli in funzione dei loro vantaggi per te. ",
+        "de": "3  Markiere deine Aktivität. Diese Aktivität kann von wenigen Minuten zB. joggen, fischen, wandern… bis zu mehreren Tagen zB. ein mehrtägiger Campingausflug in die Natur andauern. Hör erst dann mit dem Markieren auf wenn du deine Aktivität vollkommen abgeschlossen hast. Markiere interessante Wegpunkte kennzeichne immaterielle Nutzen.",
+        "nb": "3. Spor din aktivitet. Aktiviteten kan ta alt fra noen minutter og timer f. eks jogging, fisking, fottur, til flere dager lange turer i naturen med overnatting. Ikke stopp sporingen før du har fullført din aktivitet. Markér interessante punkter og hvilke ikke-materielle goder disse gir. ",
+        "fr": "3. Enregistrer vos activités. L’activité peut prendre de quelques minutes jogging, pécher, randonner… à pulsieurs jours camping dans la nature pour pulsars jours. Ne cessez d’enregistrer que quand vous aves complètement terminé l’activité. Marquez les points de repère intéressants et autres bénéfices non-matériels "
+    },
+    "4. Complete a survey about the experience you just had doing your nature activity TODAY only.": {
+        "en": "4. Complete a survey about the experience you just had doing your nature activity TODAY only.",
+        "es": "4. Completa el cuestionario sobre la experiencia que has tenido HOY mientras registrabas la actividad realizada.",
+        "fi": "4. Täytä kysely kokemuksista, jotka liittyvät luontotoimintoosi TÄNÄÄN.",
+        "it": "4. Compili il questionario sulla tua esperienza di OGGI mentre registravi l’attività svolta.",
+        "de": "4. Fülle einen kurzen Fragebogen über die Erlebnisse die du während deines heutigen Naturaufenthaltes gehabt hast.",
+        "nb": "4. Fullfør en spørreundersøkelse om opplevelsen du hadde i naturen i DAG.",
+        "fr": "4. Remplissez un questionnaire à propos des expériences que vice aves eus durant vote activity verte AUJOURD’HUI seulement."
+    },
+    "5. Press “Send” button when you have completed the survey. ": {
+        "en": "5. Press “Send” button when you have completed the survey.",
+        "es": "5. Haz click en “Enviar” al finalizar el cuestionario.",
+        "fi": "5. Lähetä koko kyselytutkimus painamalla “Lähetä”, kun olet vastannut kaikkiin kohtiin.",
+        "it": "5. Clicca “inviare” dopo finire il questionario.",
+        "de": "5. Übermittle den ausgefüllten Fragebogen indem du auf.",
+        "nb": "5. Trykk “Send”-knappen når du har fullført undersøkelsen.",
+        "fr": "5. Appuyez sur le bouton ´Envoyer´ quand vous avez rempli le questionnaire."
+    },
+    "You will be able to withdraw from the study at any point by sending an email to lorena.munoz@uit.no": {
+        "en": "You will be able to withdraw from the study at any point by sending an email to lorena.munoz@uit.no",
+        "es": "Si quieres abandonar el estudio una vez comenzado el cuestionario manda un correo electrónico a lorena.munoz@uit.no",
+        "fi": "Voit vetäytyä tutkimuksesta milloin vain lähettämällä sähköpostia osoitteeseen lorena.munoz@uit.no",
+        "it": "Se vuoi ritirarti dell’indagine dopo iniziare il questionario, invia una e-mail all’indirizzo lorena.munoz@uit.no",
+        "de": "Du kannst deine Teilnahme an der Studie jederzeit zurückziehen indem du ein Email an: Lorena.munoz@uit.no sendest",
+        "nb": "Du vil kunne trekke deg fra undersøkelsen på hvilket som helst tidspunkt ved å sende en e-post til lorena.munoz@uit.no",
+        "fr": "Vous sere capable de vice retirer de l’étude à n’importequel moment en envoyant un email à lorena.munoz@uit.no"
+    },
+    "Confidentiality and Consent": {
+        "en": "Confidentiality and Consent",
+        "es": "Política de confidencialidad",
+        "fi": "Tietojen luottamuksellisuus ja sitoumus",
+        "it": "Informativa sulla privacy",
+        "de": "Vertraulichkeitserklärung und Einverständnis",
+        "nb": "Samtykke til deltakelse",
+        "fr": "Confidentialité et Consentement"
+    },
+    "If you consent to participate in the survey and to track your visit, your data will be analyzed together with the other visitors’ GPS data to create maps, reports and publications.": {
+        "en": "If you consent to participate in the survey and to track your visit, your data will be analyzed together with the other visitors’ GPS data to create maps, reports and publications.",
+        "es": "Si aceptas participar en el cuestionario y registrar tu actividad, tus datos serán analizados conjuntamente con los demás turistas para crear mapas, informes y publicaciones.",
+        "fi": "Jos suostut osallistumaan kyselytutkimukseen ja matkailukäyntisi seurantaan, tietosi analysoidaan yhdessä muiden vierailijoiden GPS-aineiston kanssa. Luomme koko kyselyaineiston pohjalta karttoja, raportteja ja julkaisuja. ",
+        "it": "Se accetti partecipare nell’indagine e registrare la tua attività, i dati da te inseriti saranno analizzati insieme ai dati degli altri turisti al fine di creare carte geografiche, rapporti e pubblicazioni.",
+        "de": "Wenn du dich dazu einverstanden erklärst an der Studie teilzunehmen und deinen Weg während deines Besuches zu markieren werden deine Daten gemeinsam mit den GPS-Daten anderer Besucher dazu verwendet Karten, Gutachten und Publikationen zu produzieren.",
+        "nb": "Hvis du samtykker til å delta i denne undersøkelsen og til å kartlegge din aktivitet, vil informasjonen du bidrar med bli analysert sammen med andre deltakeres GPS-data og brukt til å produsere kart, rapporter og publikasjoner",
+        "fr": "Si vous agréez de participer au questionnaire et enregistrer vote visite, vote information sera analysée ainsi que l’information GPS d’autres visiteurs afin de créer des cartes, raports et publications."
+    },
+    "All personal data will be treated as personal under the Norwegian 2000 Personal Data Act, and stored securely on a server at the Arctic University of Norway until 1st March 2018 when all this data will be deleted.": {
+        "en": "All personal data will be treated as personal under the Norwegian 2000 Personal Data Act, and stored securely on a server at the Arctic University of Norway until 1st March 2018 when all this data will be deleted.",
+        "es": "Los datos personales serán tratados en cumplimiento con la Ley 2000 Noruega de datos personales de Noruega, y custodiados en un servidor seguro en la Universidad Ártica de Noruega hasta el 1 de marzo del 2018, tras la cual serán eliminados. ",
+        "fi": "Kaikkia tietoja käsitellään henkilökohtaisina tietoina Norjan 2000 henkilötietolain mukaisesti. Kaikki tiedot tallennetaan turvallisesti Norjan Arktisen yliopiston palvelimelle 1. maaliskuuta 2018 saakka, jolloin tiedot tuhotaan. ",
+        "it": "I dati personalli saranno trattati nel pieno rispetto della legge norvegese 2000 sui dati personali e conservati in modo sicuro su un server nella Università Artica di Norvegia fino al 1 marzo, 2018. Dopo verranno cancellati. ",
+        "de": "Alle persönlichen Informtionen und Daten werden gemäß des norwegischen Datenschutzgesetzes von 2000 als persönlich behandelt und bis 1. 05. 2018 auf einem Server an der arktischen Universität von Norwegen UiT sicherheitsverwahrt und danach gelöscht.",
+        "nb": "All personlige data vil bli behandlet som personlig data i henhold til den norske personopplysningsloven fra 2000, og vil bli lagret på en sikker server på det Arktiske Universitetet i Norge til den første mars 2018, før de deretter slettes.",
+        "fr": "Toute l'information sera traitée come personelle suivant la loi Norvègienne de 2000 sur les données personelles. Ces informations seront conservées de manière sure sur un serveur de l'Université de Tromsø jusqu'au 1er Mars 2018, date où toutes ces informations seront effacées."
+    },
+    "The data will be treated as confidential and will not be passed on to any other party.": {
+        "en": "The data will be treated as confidential and will not be passed on to any other party.",
+        "es": "Los datos serán confidenciales y no serán proporcionados a terceros.",
+        "fi": "Tietoja käsitellään luottamuksellisina eikä niitä luovuteta muiden tahojen käyttöön.",
+        "it": "I dati saranno considerati riservati e non saranno divulgati verso terzi.",
+        "de": "Die Daten werden vertraulich behandelt und nicht an Dritte Personen weitergegeben.",
+        "nb": "Dine data vil bli behandlet med fullstendig konfidensialitet og vil ikke bli delt med noen andre aktører.",
+        "fr": "Ces informations seront traitées comme confidentielles et ne seront pas transmises à d'autres parties."
+    },
+    "No personally identifiable information will be used in reports or publications.": {
+        "en": "No personally identifiable information will be used in reports or publications.",
+        "es": "No se utilizarán datos personales en informes ni publicaciones.",
+        "fi": "Mitään henkilöön viittaavaa tai henkilön tunnistuksen mahdollistavaa tietoa ei käytetä raporteissa tai julkaisuissa. ",
+        "it": "I dati personali non saranno utilizzati in richieste o pubblicazioni.",
+        "de": "Keine Informationen die Aufschluss auf die Identität von Einzelpersonen geben können, werden in Gutachten und Publikationen verwendet werden.",
+        "nb": "Ingen informasjon benyttet i rapporter eller publikasjoner vil kunne knyttes til deg.",
+        "fr": "Aucune information personellement identifiable ne sera utilisée dans les articles ou autres publications."
+    },
+    "For any queries please contact Lorena Muñoz lorena.munoz@uit.no or Vera Hausner vera.hausner@uit.no": {
+        "en": "For any queries please contact Lorena Muñoz lorena.munoz@uit.no or Vera Hausner vera.hausner@uit.no",
+        "es": "Ante cualquier duda contacta con Lorena Muñoz Lorena.munoz@uit.no o Vera Hausner vera.hausner@uit.no",
+        "fi": "Kysymykset voi osoittaa Lorena Muñozille lorena.munoz@uit.no ja Vera Hausnerille vera.hausner@uit.no",
+        "it": "Di fronte a qualche dubbio scrivi a Lorena Muñoz lorena.munoz@uit.no o Vera Hausner vera.hausner@uit.no",
+        "de": "Um weitere Informationen zu erhalten nimm bitte Kontakt zu Lorena Muñoz lorena.munoz@uit.no oder Vera Hausner vera.hausner@uit.no auf.",
+        "nb": "Hvis du har noen spørsmål vennligst tak kontakt med Lorena Muñoz lorena.munoz@uit.no eller Vera Hausner vera.haunser@uit.no",
+        "fr": "Pour toute autre demandes veuilliez contacter Lorena Munoz lorena.munoz@uit.no ou Vera Hausner vera.hausner@uit.no"
+    },
+    "Accept terms": {
+        "en": "Accept terms",
+        "es": "Aceptar condiciones",
+        "fi": "Hyväksy ehdot",
+        "it": "Accettare i termini.",
+        "de": "Ich stimme den Konditionen zu",
+        "nb": "Godkjenn vilkår",
+        "fr": "Accepter les termes"
+    },
+    "Exit the survey": {
+        "en": "Exit the survey",
+        "es": "Salir del estudio",
+        "fi": "Poistu kyselystä ",
+        "it": "Uscire dall’indagine.",
+        "de": "Den Fragebogen verlassen",
+        "nb": "Avslutt undersøkelsen",
+        "fr": "Quiter le questionnaire"
+    },
+    "Personal information": {
+        "en": "Personal information",
+        "es": "Información personal ",
+        "fi": "Vastaajan tiedot ",
+        "it": "Dati personali",
+        "de": "Persönliche Informationen",
+        "nb": "Personlige opplysninger",
+        "fr": "Information personelle"
+    },
+    "Q1. What is your country of residence? choose only 1": {
+        "en": "Q1. What is your country of residence? choose only 1",
+        "es": "Q1. ¿En qué país resides? elige sólo una opción",
+        "fi": "Q1. Missä maassa asut? valitse ainoastaan yksi ",
+        "it": "Q1. Qual è il tuo paese di residenza?",
+        "de": "Q1. In welchem Land ist dein Hauptwohnsitz? Bitte nur eine Antwort auswählen",
+        "nb": "Q1. I hvilket land bor du? Velg kun 1",
+        "fr": "Q1. Quelle est votre pays de résidence choisir 1"
+    },
+    " Norway": {
+        "en": "Norway",
+        "es": "Noruega",
+        "fi": "Norja",
+        "it": "Norvegia Codice postale",
+        "de": "Norwegen",
+        "nb": "Norge",
+        "fr": "Norvège"
+    },
+    "postal code": {
+        "en": "Postal code",
+        "es": "Código postal",
+        "fi": "Postinumero",
+        "it": "Codice postale",
+        "de": "Postleitzahl ",
+        "nb": "Postnummer",
+        "fr": "Code postal"
+    },
+    " Other country": {
+        "en": "Other country",
+        "es": "Otro país",
+        "fi": "Muu maa",
+        "it": "Altro paese",
+        "de": "Anderes Land",
+        "nb": "Annet land",
+        "fr": "Autre pays"
+    },
+    "Q2. What is your gender? ": {
+        "en": "Q2. What is your gender?",
+        "es": "Q2. Género",
+        "fi": "Q2. Mikä on sukupuolesi?",
+        "it": "Q2. Genere:",
+        "de": "Q2. Bist du? ",
+        "nb": "Q2. Hva er ditt kjønn?",
+        "fr": "Q2. Quele est votre sexe?"
+    },
+    " Male": {
+        "en": "Male",
+        "es": "Masculino",
+        "fi": "Mies",
+        "it": "Maschile",
+        "de": "Männlich",
+        "nb": "Mann",
+        "fr": "Homme"
+    },
+    " Female": {
+        "en": "Female",
+        "es": "Femenino",
+        "fi": "Nainen",
+        "it": "Femminile",
+        "de": "Weiblich",
+        "nb": "Kvinne",
+        "fr": "Femme"
+    },
+    "Q3. What is your age? ": {
+        "en": "Q3. What is your age?",
+        "es": "Q3. Edad:",
+        "fi": "Q3. Minkä ikäinen olet?",
+        "it": "Q3. Età:",
+        "de": "Q3. Wie alt bist du?",
+        "nb": "Q3. Hvor gammel er du?",
+        "fr": "Q3. Quel est votre age?"
+    },
+    "Q4. What is the highest education level you have completed? choose only 1": {
+        "en": "Q4. What is the highest education level you have completed? choose only 1",
+        "es": "Q4. ¿Cuál es tu nivel de educación elige sólo una opción",
+        "fi": "Q4. Korkein suoritettu koulutusaste/tutkinto valitse ainoastaan yksi.",
+        "it": "Q4. Qual è il tuo livello di istruzione?",
+        "de": "Q4. Was ist der höchste Bildungsabschluss den du erworben hast? Bitte nur eine Antwort auswählen!",
+        "nb": "Q4. Hva er det høyeste nivået av utdanning du har fullført? Velg kun 1",
+        "fr": "Q4. Quel niveau d’éducation avez-vous complété ? choisissez seulement 1"
+    },
+    " Primary school": {
+        "en": "Primary school",
+        "es": "Primaria",
+        "fi": "Peruskoulu",
+        "it": "Scuola elementare",
+        "de": "Grundschule",
+        "nb": "Ungdomskolen/realskole",
+        "fr": "École primaire"
+    },
+    " Secondary school": {
+        "en": "Secondary school",
+        "es": "Secundaria",
+        "fi": "Lukio",
+        "it": "Scuola superiore",
+        "de": "Weiterführende Schule",
+        "nb": "Videregående/yrkesfag",
+        "fr": "Lycée"
+    },
+    " Higher education College, University or others": {
+        "en": "Higher education College, University or others",
+        "es": "Educación profesional bachillerato, universidad u otro",
+        "fi": "Ylemmän asteen koulutus korkeakoulu, yliopisto tai muu vastaava",
+        "it": "Formazione professionale baccalaureati, università, altro",
+        "de": "Studium Fachhochschule, Universität, etc.",
+        "nb": "Universitet/Høgskole",
+        "fr": "Éducation supérieure université ou autre institution"
+    },
+    " Other: ": {
+        "en": "Other:",
+        "es": "Otro:",
+        "fi": "Muu:",
+        "it": "Altro:",
+        "de": "Anderer Abschluss:",
+        "nb": "Annet:",
+        "fr": "Autre"
+    },
+    "Q5. What was the approximate total after-tax income of your household for year 2014? choose only 1 [optional question]": {
+        "en": "Q5. What was the approximate total after-tax income of your household for year 2014? choose only 1 [optional question]",
+        "es": "Q5. ¿Cuál fue el ingreso neto doméstico aproximado del 2014 elige una única opción?",
+        "fi": "Q5. Minkä suuruiseksi arvioit kotitaloutesi kokonaisansiot verojen jälkeen vuonna 2014? valitse ainoastaan yksi [valinnainen kysymys]",
+        "it": "Q5. Quale fu il tuo reddito al netto approssimato nel 2014? scegli solo un'opzione",
+        "de": "Q5. Wie hoch war das Gesamtnettoeinkommen deines Haushaltes im Jahr 2014? Bitt nur eine Antwort auswählen [die Antwort zu dieser Frage ist nicht verpflichtend]",
+        "nb": "Q5. Hva var den omtrentlige nettoinntekten for din husholdning i 2014? velg kun 1 valgfritt spørsmål",
+        "fr": "Q5. Quel est le revenu approximatif après les taxes de votre ménage pour l’année 2014? choisissez 1 [question optionelle]"
+    },
+    "Norwegian krone Nok": {
+        "en": "Norwegian krone NOK",
+        "es": "Corona noruega NOK",
+        "fi": "Norjan kruunu NOK",
+        "it": "Corona norvegese NOK",
+        "de": "Norwegische Kronen NOK",
+        "nb": "Norske kroner NOK",
+        "fr": "Couronnes Norvégiennes NOK"
+    },
+    "Up to 100 000": {
+        "en": "Up to 100 000",
+        "es": "Inferior a 100 000",
+        "fi": "korkeintaan 100 000",
+        "it": "Meno di 100 000",
+        "de": "Unter 100 000",
+        "nb": "Opp til 100 000",
+        "fr": "Jusqu’á 100 000"
+    },
+    "100 000 – 200 000": {
+        "en": "100 000 – 200 000",
+        "es": "100 000 – 200 000",
+        "fi": "100 000 – 200 000",
+        "it": "100 000 – 200 000",
+        "de": "100 000 – 200 000",
+        "nb": "100 000 – 200 000",
+        "fr": "100 000 – 200 000"
+    },
+    "200 000 – 300 000": {
+        "en": "200 000 – 300 000",
+        "es": "200 000 – 300 000",
+        "fi": "200 000 – 300 000",
+        "it": "200 000 – 300 000",
+        "de": "200 000 – 300 000",
+        "nb": "200 000 – 300 000",
+        "fr": "200 000 – 300 000"
+    },
+    "300 000 – 400 000": {
+        "en": "300 000 – 400 000",
+        "es": "300 000 – 400 000",
+        "fi": "300 000 – 400 000",
+        "it": "300 000 – 400 000",
+        "de": "300 000 – 400 000",
+        "nb": "300 000 – 400 000",
+        "fr": "300 000 – 400 000"
+    },
+    "400 000 – 500 000": {
+        "en": "400 000 – 500 000",
+        "es": "400 000 – 500 000",
+        "fi": "400 000 – 500 000",
+        "it": "400 000 – 500 000",
+        "de": "400 000 – 500 000",
+        "nb": "400 000 – 500 000",
+        "fr": "400 000 – 500 000"
+    },
+    "500 000 – 600 000": {
+        "en": "500 000 – 600 000",
+        "es": "500 000 – 600 000",
+        "fi": "500 000 – 600 000",
+        "it": "500 000 – 600 000",
+        "de": "500 000 – 600 000",
+        "nb": "500 000 – 600 000",
+        "fr": "500 000 – 600 000"
+    },
+    "600 000 – 700 000": {
+        "en": "600 000 – 700 000",
+        "es": "600 000 – 700 000",
+        "fi": "600 000 – 700 000",
+        "it": "600 000 – 700 000",
+        "de": "600 000 – 700 000",
+        "nb": "600 000 – 700 000",
+        "fr": "600 000 – 700 000"
+    },
+    "700 000 – 800 000": {
+        "en": "700 000 – 800 000",
+        "es": "700 000 – 800 000",
+        "fi": "700 000 – 800 000",
+        "it": "700 000 – 800 000",
+        "de": "700 000 – 800 000",
+        "nb": "700 000 – 800 000",
+        "fr": "700 000 – 800 000"
+    },
+    "800 000 – 900 000": {
+        "en": "800 000 – 900 000",
+        "es": "800 000 – 900 000",
+        "fi": "800 000 – 900 000",
+        "it": "800 000 – 900 000",
+        "de": "800 000 – 900 000",
+        "nb": "800 000 – 900 000",
+        "fr": "800 000 – 900 000"
+    },
+    "Over 900 000": {
+        "en": "Over 900 000",
+        "es": "Superior a 900 000",
+        "fi": "yli 900 000",
+        "it": "Più di 900 000",
+        "de": "Über 900 000",
+        "nb": "Over 900 000",
+        "fr": "Over 900 000"
+    },
+    "Euros €": {
+        "en": "Euros €",
+        "es": "Euro €",
+        "fi": "Euro €",
+        "it": "Euro €",
+        "de": "Euro €",
+        "nb": "Euro €",
+        "fr": "Euros €"
+    },
+    "Up to 11 900": {
+        "en": "Up to 11 900",
+        "es": "Inferior a 11 900",
+        "fi": "Korkeintaan 11 900",
+        "it": "Meno di 11 900",
+        "de": "Unter 11 900",
+        "nb": "Opp til 11 900",
+        "fr": "Jusqu’á 11 900"
+    },
+    "11 900 – 23 800": {
+        "en": "11 900 – 23 800",
+        "es": "11 900 – 23 800",
+        "fi": "11 900 – 23 800",
+        "it": "11 900 – 23 800",
+        "de": "11 900 – 23 800",
+        "nb": "11 900 – 23 800",
+        "fr": "11 900 – 23 800"
+    },
+    "23 800 – 35 700": {
+        "en": "23 800 – 35 700",
+        "es": "23 800 – 35 700",
+        "fi": "23 800 – 35 700",
+        "it": "23 800 – 35 700",
+        "de": "23 800 – 35 700",
+        "nb": "23 800 – 35 700",
+        "fr": "23 800 – 35 700"
+    },
+    "35 700 – 47 600": {
+        "en": "35 700 – 47 600",
+        "es": "35 700 – 47 600",
+        "fi": "35 700 – 47 600",
+        "it": "35 700 – 47 600",
+        "de": "35 700 – 47 600",
+        "nb": "35 700 – 47 600",
+        "fr": "35 700 – 47 600"
+    },
+    "47 600 – 59 500": {
+        "en": "47 600 – 59 500",
+        "es": "47 600 – 59 500",
+        "fi": "47 600 – 59 500",
+        "it": "47 600 – 59 500",
+        "de": "47 600 – 59 500",
+        "nb": "47 600 – 59 500",
+        "fr": "47 600 – 59 500"
+    },
+    "59 500 – 71 400": {
+        "en": "59 500 – 71 400",
+        "es": "59 500 – 71 400",
+        "fi": "59 500 – 71 400",
+        "it": "59 500 – 71 400",
+        "de": "59 500 – 71 400",
+        "nb": "59 500 – 71 400",
+        "fr": "59 500 – 71 400"
+    },
+    "71 400 – 83 300": {
+        "en": "71 400 – 83 300",
+        "es": "71 400 – 83 300",
+        "fi": "71 400 – 83 300",
+        "it": "71 400 – 83 300",
+        "de": "71 400 – 83 300",
+        "nb": "71 400 – 83 300",
+        "fr": "71 400 – 83 300"
+    },
+    "83 300 – 95 200": {
+        "en": "83 300 – 95 200",
+        "es": "83 300 – 95 200",
+        "fi": "83 300 – 95 200",
+        "it": "83 300 – 95 200",
+        "de": "83 300 – 95 200",
+        "nb": "83 300 – 95 200",
+        "fr": "83 300 – 95 200"
+    },
+    "95 200 – 107 100": {
+        "en": "95 200 – 107 100",
+        "es": "95 200 – 107 100",
+        "fi": "95 200 – 107 100",
+        "it": "95 200 – 107 100",
+        "de": "95 200 – 107 100",
+        "nb": "95 200 – 107 100",
+        "fr": "95 200 – 107 100"
+    },
+    "Over 107 100": {
+        "en": "Over 107 100",
+        "es": "Superior a 107 100",
+        "fi": "yli 107 100",
+        "it": "Più di 107 100",
+        "de": "Über 107 100",
+        "nb": "Over 107 100",
+        "fr": "Over 107 100"
+    },
+    "US dollars $": {
+        "en": "US dollars $",
+        "es": "Dólar US $",
+        "fi": "US dollari $",
+        "it": "Dollaro US $",
+        "de": "US Dollar $",
+        "nb": "US Dollar $",
+        "fr": "Dollars Américains $"
+    },
+    "Up to 16 200": {
+        "en": "Up to 16 200",
+        "es": "Inferior a 16 200",
+        "fi": "Korkeintaan 16 200",
+        "it": "Meno di 16 200",
+        "de": "Unter 16 200",
+        "nb": "Unter 16 200",
+        "fr": "Jusqu’á 16 200"
+    },
+    "26 200 – 32 400": {
+        "en": "26 200 – 32 400",
+        "es": "26 200 – 32 400",
+        "fi": "26 200 – 32 400",
+        "it": "26 200 – 32 400",
+        "de": "26 200 – 32 400",
+        "nb": "26 200 – 32 400",
+        "fr": "26 200 – 32 400"
+    },
+    "32 400 – 48 600": {
+        "en": "32 400 – 48 600",
+        "es": "32 400 – 48 600",
+        "fi": "32 400 – 48 600",
+        "it": "32 400 – 48 600",
+        "de": "32 400 – 48 600",
+        "nb": "32 400 – 48 600",
+        "fr": "32 400 – 48 600"
+    },
+    "48 600 – 64 800": {
+        "en": "48 600 – 64 800",
+        "es": "48 600 – 64 800",
+        "fi": "48 600 – 64 800",
+        "it": "48 600 – 64 800",
+        "de": "48 600 – 64 800",
+        "nb": "48 600 – 64 800",
+        "fr": "48 600 – 64 800"
+    },
+    "64 800 – 81 000": {
+        "en": "64 800 – 81 000",
+        "es": "64 800 – 81 000",
+        "fi": "64 800 – 81 000",
+        "it": "64 800 – 81 000",
+        "de": "64 800 – 81 000",
+        "nb": "64 800 – 81 000",
+        "fr": "64 800 – 81 000"
+    },
+    "81 000 – 97 200": {
+        "en": "81 000 – 97 200",
+        "es": "81 000 – 97 200",
+        "fi": "81 000 – 97 200",
+        "it": "81 000 – 97 200",
+        "de": "81 000 – 97 200",
+        "nb": "81 000 – 97 200",
+        "fr": "81 000 – 97 200"
+    },
+    "97 200 – 113 400": {
+        "en": "97 200 – 113 400",
+        "es": "97 200 – 113 400",
+        "fi": "97 200 – 113 400",
+        "it": "97 200 – 113 400",
+        "de": "97 200 – 113 400",
+        "nb": "97 200 – 113 400",
+        "fr": "97 200 – 113 400"
+    },
+    "113 400 – 129 600": {
+        "en": "113 400 – 129 600",
+        "es": "113 400 – 129 600",
+        "fi": "113 400 – 129 600",
+        "it": "113 400 – 129 600",
+        "de": "113 400 – 129 600",
+        "nb": "113 400 – 129 600",
+        "fr": "113 400 – 129 600"
+    },
+    "129 600 – 145 800": {
+        "en": "129 600 – 145 800",
+        "es": "129 600 – 145 800",
+        "fi": "129 600 – 145 800",
+        "it": "129 600 – 145 800",
+        "de": "129 600 – 145 800",
+        "nb": "129 600 – 145 800",
+        "fr": "129 600 – 145 800"
+    },
+    "Over 145 800": {
+        "en": "Over 145 800",
+        "es": "Superior a 145 800",
+        "fi": "Yli 145 800",
+        "it": "Più di 145 800",
+        "de": "Über 145 800",
+        "nb": "Over 145 800",
+        "fr": "Over 145 800"
+    },
+    "Q6. How many times in the past have you visited this area?": {
+        "en": "Q6. How many times in the past have you visited this area?",
+        "es": "Q6. ¿Cuántas veces has visitado esta zona antes?",
+        "fi": "Q6. Kuinka monta kertaa aiemmin olet käynyt tällä alueella? ",
+        "it": "Q6. Quante volte avevi visitato questa zona prima?",
+        "de": "Q6. Wie oft hast du diese Gegend in der Vergangenheit besucht?",
+        "nb": "Q6. Hvor mange ganger tidligere har du besøkt dette området?",
+        "fr": "Q6. Combien de fois dans le passé avez-vous visité det endroit?"
+    },
+    "Now you are ready to track your activity.": {
+        "en": "Now you are ready to track your activity.",
+        "es": "Puedes empezar a registrar tu actividad.",
+        "fi": "Nyt olet valmis toimintosi seurantaan. ",
+        "it": "Puoi cominciare a registrare la tua attività.",
+        "de": "Du bist nun bereit deine Aktivität zu markieren. ",
+        "nb": "Nå er du klar til å kartlegge din aktivitet.",
+        "fr": "Vous etes maintenant près a enregistrer votre activité"
+    },
+    "Please, do not stop tracking until you completely finish the activity. We would like you to create waypoints on places and tag them according to what you like or dislike in the place.": {
+        "en": "Please, do not stop tracking until you completely finish the activity. We would like you to create waypoints on places and tag them according to what you like or dislike in the place.",
+        "es": "Por favor, no pares el registro de tu actividad hasta que la hayas terminado. Crea puntos de interés y etiquétalos con los atributos que te gusten o disgusten en ese específico lugar.",
+        "fi": "Ole hyvä ja jatka seurantaa kunnes ole kokonaan lopettanut toiminnon. Pyydämme sinua luomaan uusia reittipisteitä paikkoihin ja sijanteihin ja merkitsemään ne sen mukaan, mistä pidit tai et pitänyt kyseisessä paikassa",
+        "it": "Vi preghiamo di no fermare il registro prima di aver finito la tua attività. Crea punti di interesse ed etichettali secondo le caratteristiche che ti piacciono o non ti piacciono in quel luogo.",
+        "de": "Bitte höre erst dann auf deinen Pfad zu markieren wenn du vollkommen mit deiner Aktivität fertig bist. Wir bitten dich an Orten an denen dir etwas positiv oder negativ auffällt Wegpunkte zu schaffen und uns deine Meinung über diesen Ort mitzuteilen.",
+        "nb": "Vennligst ikke stopp sporingen til du er fullstendig ferdig med aktiviteten. Vi vil gjerne at du registrerer punkter langs ruten hvor du forklarer hva du liker eller misliker med det stedet.",
+        "fr": "Veuilliez continuer d’enregistrer jusqu’à ce que vous ayez completement terminé l’activité. Nous désirons que vous créiez des points de repère et que vous les balisiez en accordance avec vos impressions, négatives et/ou positives à propos de cet endroit."
+    },
+    "Start activity": {
+        "en": "Start activity",
+        "es": "Empezar la actividad",
+        "fi": "Aloita toiminto ",
+        "it": "Cominciare l’attività",
+        "de": "Aktivität beginnen",
+        "nb": "Start aktivitet",
+        "fr": "Commencer l'activité"
+    },
+    "I like this are": {
+        "en": "I like this area",
+        "es": "Me gusta",
+        "fi": "Pidän tästä alueesta",
+        "it": "Mi piace",
+        "de": "Mir gefällt",
+        "nb": "Jeg liker dette området",
+        "fr": "J’aime cet endroit"
+    },
+    "Undisturbed nature": {
+        "en": "Undisturbed nature",
+        "es": "Naturaleza virgen",
+        "fi": "Koskematon luonto ",
+        "it": "Natura incontaminata",
+        "de": "Unberührte Natur",
+        "nb": "Uforstyrret natur",
+        "fr": "Nature intouchée"
+    },
+    "Biological diversity": {
+        "en": "Biological diversity",
+        "es": "Diversidad biológica",
+        "fi": "Biologinen monimuotoisuus ",
+        "it": "Diversità biologica",
+        "de": "Biodiversität",
+        "nb": "Biologisk mangfold",
+        "fr": "Diversité biologique"
+    },
+    "Aesthetic/scenic": {
+        "en": "Aesthetic/scenic",
+        "es": "Vistas",
+        "fi": "Esteettisyys/maisema ",
+        "it": "Paesaggio",
+        "de": "Sicht/szenische Landschaft",
+        "nb": "Estetisk/Naturskjønt",
+        "fr": "esthétique/scénique "
+    },
+    "Recreation activities": {
+        "en": "Recreation activities",
+        "es": "Actividades lúdicas ",
+        "fi": "Virkistystoiminta ",
+        "it": "Attività ludiche ",
+        "de": "Freizeiteinrichtungen",
+        "nb": "Rekreasjonsaktiviteter",
+        "fr": "activités de loisir"
+    },
+    "Interesting landforms": {
+        "en": "Interesting landforms",
+        "es": "Geomorfología curiosa",
+        "fi": "Mielenkiintoinen pinnanmuoto ",
+        "it": "Geomorfologia interessante",
+        "de": "Interessante Landschaftsformen",
+        "nb": "Interessante landskapsformasjoner",
+        "fr": "Reliefs intéressants"
+    },
+    "Cultural heritage": {
+        "en": "Cultural heritage",
+        "es": "Patrimonio cultural",
+        "fi": "Kulttuuriperintö",
+        "it": "Patrimonio culturale",
+        "de": "Kulturerbe",
+        "nb": "Kulturarv",
+        "fr": "Héritage culturel"
+    },
+    "Other: ": {
+        "en": "Other:",
+        "es": "Otros:",
+        "fi": "Muu:",
+        "it": "Altri:",
+        "de": "Weiteres:",
+        "nb": "Andre:",
+        "fr": "Autres"
+    },
+    "I dislike the area button": {
+        "en": "I dislike the area button",
+        "es": "No me gusta",
+        "fi": "En pidä tästä alueesta",
+        "it": "Non mi piace",
+        "de": "Mir missfällt",
+        "nb": "Jeg misliker dette området",
+        "fr": "Je n’aime pas cet endroit"
+    },
+    "Noisiness": {
+        "en": "Noisiness",
+        "es": "Ruido",
+        "fi": "Melu",
+        "it": "Rumore",
+        "de": "Lärm",
+        "nb": "Bråk",
+        "fr": "Bruit"
+    },
+    "Garbage": {
+        "en": "Garbage",
+        "es": "Basura",
+        "fi": "Roskat",
+        "it": "Spazzatura",
+        "de": "Vermüllung",
+        "nb": "Søppel",
+        "fr": "Détritus"
+    },
+    "Unpleasant": {
+        "en": "Unpleasant",
+        "es": "Desagradable",
+        "fi": "Epämiellyttävä",
+        "it": "Sgradevole",
+        "de": "Unangenehme Atmosphäre",
+        "nb": "Ubehagelig",
+        "fr": "Désagréable"
+    },
+    "Damaged vegetation": {
+        "en": "Damaged vegetation",
+        "es": "Vegetación dañada",
+        "fi": "Vaurioitunut kasvillisuus",
+        "it": "Vegetazione danneggiata",
+        "de": "Beschädigte/zerstörte Vegetation",
+        "nb": "Skadet vegetasjon",
+        "fr": "Végétation endomagée"
+    },
+    "Urbanization": {
+        "en": "Urbanization",
+        "es": "Demasiadas cabañas",
+        "fi": "Kaupungistuminen",
+        "it": "Urbanizzazione",
+        "de": "Verstädterung",
+        "nb": "Urbanisering",
+        "fr": "Urbanisation"
+    },
+    "Too many livestock/reindeer": {
+        "en": "Too many livestock/reindeer",
+        "es": "Demasiado ganado/renos",
+        "fi": "Liian paljon karjaa/poroja",
+        "it": "Troppo bestiame/renne",
+        "de": "Zu viele Weidetiere/Rentiere",
+        "nb": "For mange husdyr/reinsdyr",
+        "fr": "Trop d’animaux de ferme/rennes"
+    },
+    "Other: ": {
+        "en": "Other:",
+        "es": "Otros:",
+        "fi": "Muu:",
+        "it": "Altri:",
+        "de": "Weiteres:",
+        "nb": "Andre:",
+        "fr": "Autres"
+    },
+    "Finish activity": {
+        "en": "Finish activity",
+        "es": "Finalizar actividad",
+        "fi": "Lopeta toiminto ",
+        "it": "Finire l’attività",
+        "de": "Aktivität beenden",
+        "nb": "Avslutt aktivitet",
+        "fr": "Terminer l’activité"
+    },
+    "Proceed to the survey": {
+        "en": "Proceed to the survey",
+        "es": "Seguir con el cuestionario",
+        "fi": "Jatka kyselyyn",
+        "it": "Continuare con il questionario",
+        "de": "Zum Fragebogen",
+        "nb": "Fortsett til spørsmålene",
+        "fr": "Continuer vers le questionnaire"
+    },
+    "At the end of the activity provide a screen with": {
+        "en": "At the end of the activity provide a screen with",
+        "es": "At the end of the activity provide a screen with",
+        "fi": "At the end of the activity provide a screen with",
+        "it": "At the end of the activity provide a screen with",
+        "de": "Zeige folgendes nach Abschluss der laufenden Aktivität auf dem Bildschirm an",
+        "nb": "På slutten av aktiviteten vises en skjerm med",
+        "fr": "A la fin de l’activité obtenir un écran avec"
+    },
+    "Time": {
+        "en": "Time",
+        "es": "Tiempo",
+        "fi": "Aika ",
+        "it": "Tempo",
+        "de": "Zeit",
+        "nb": "Tid",
+        "fr": "Temps"
+    },
+    "A map showing the trip": {
+        "en": "A map showing the trip ",
+        "es": "Mapa",
+        "fi": "Kartta",
+        "it": "Mappa",
+        "de": "Eine Karte die meinen Pfad kennzeichnet",
+        "nb": "Et oversiktskart over turen",
+        "fr": "Une carte montrant le voyage"
+    },
+    "Your visit today": {
+        "en": "Your visit today",
+        "es": "Sobre la visita de hoy",
+        "fi": "Käyntisi tänään",
+        "it": "Sulla visita di oggi",
+        "de": "Dein heutiger Besuch",
+        "nb": "Ditt besøk i dag",
+        "fr": "Votre visite aujourd’hui"
+    },
+    "Q8. What nature-based activities did you participate in during the tracking today? Click multiple if relevant": {
+        "en": "Q8. What nature-based activities did you participate in during the tracking today? Click multiple if relevant:",
+        "es": "Q8. ¿Qué actividades has realizado en la naturaleza mientras utilizabas esta aplicación hoy? Elige más de una actividad si es necesario:",
+        "fi": "Q8. Mihin luontoaktiviteetteihin osallistuit tänään toimintosi aikana? Voit merkitä useita vaihtoehtoja:",
+        "it": "Q8. Quali sono le attività svolte oggi nella natura mentre usavi questa app? Se hai bisogno, scegli più di una attività:",
+        "de": "Q8. An welchen naturverbundenen Aktivitäten hast du im Laufe deines heutigen Besuchs teilgenommen? Wähle alle zutreffende Aktivitäten aus:",
+        "nb": "Q8. Hvilken naturbaserte aktiviteter utførte du under dagens sporing? trykk på flere hvis du utførte flere:",
+        "fr": "Q8. Quelle activité verte avez-vous fais l’experience durant l’enregistrement aujourd’hui cliquer sur plusieurs si nécessaire:"
+    },
+    " Hiking": {
+        "en": "Hiking",
+        "es": "Senderismo",
+        "fi": "Vaellus/retkeily",
+        "it": "Escursionismo",
+        "de": "Wandern",
+        "nb": "Fottur",
+        "fr": "Randonnée"
+    },
+    " Cycling": {
+        "en": "Cycling",
+        "es": "Ciclismo",
+        "fi": "Pyöräily",
+        "it": "Andare in bicicletta",
+        "de": "Radfahren/Mountainbiken",
+        "nb": "Sykling",
+        "fr": "Vélo"
+    },
+    " ATV /snow scooter": {
+        "en": "ATV /snow scooter",
+        "es": "Quad / moto de nieve",
+        "fi": "Mönkijä/moottorikelkka",
+        "it": "Motoslitta",
+        "de": "Schneemobil/Quad fahren",
+        "nb": "ATV/Snøskuter",
+        "fr": "Scooter des neiges"
+    },
+    " Horse riding": {
+        "en": "Horse riding",
+        "es": "Montar a caballo",
+        "fi": "Hevosratsastus",
+        "it": "Equitazione",
+        "de": "Reiten",
+        "nb": "Ridetur",
+        "fr": "Équitation"
+    },
+    " Wildlife viewing": {
+        "en": "Wildlife viewing",
+        "es": "Observación de animales salvajes",
+        "fi": "Luonnonvaraisen luonnon tarkkailu",
+        "it": "Osservazione della fauna selvatica",
+        "de": "Wildtierbeobachtung",
+        "nb": "Oppleve dyrelivet",
+        "fr": "Safari d’animaux sauvages"
+    },
+    " Fishing": {
+        "en": "Fishing",
+        "es": "Pesca",
+        "fi": "Kalastus",
+        "it": "Pesca",
+        "de": "Fischen",
+        "nb": "Fisking",
+        "fr": "Peche"
+    },
+    " Hunting": {
+        "en": "Hunting",
+        "es": "Caza",
+        "fi": "Metsästys",
+        "it": "Caccia",
+        "de": "Jagen",
+        "nb": "Jakt",
+        "fr": "Chasse"
+    },
+    " Camping": {
+        "en": "Camping",
+        "es": "Acampada",
+        "fi": "Telttailu",
+        "it": "Campeggio",
+        "de": "Zelten",
+        "nb": "Overnatting utendørs",
+        "fr": "Camping"
+    },
+    " Bird watching": {
+        "en": "Bird watching",
+        "es": "Observación de aves",
+        "fi": "Lintujen tarkkailu",
+        "it": "Birdwatching",
+        "de": "Vogelbeobachtung",
+        "nb": "Fugletitting",
+        "fr": "Safari d’oiseaux "
+    },
+    " Sightseeing": {
+        "en": "Sightseeing",
+        "es": "Turismo",
+        "fi": "Nähtävyyksien katselu",
+        "it": "Giro turistico",
+        "de": "Besuchen bestimmter Attraktionen",
+        "nb": "Sightseeing",
+        "fr": "Visite guidée"
+    },
+    " Climbing": {
+        "en": "Climbing",
+        "es": "Escalada",
+        "fi": "Kiipeily",
+        "it": "Arrampicata",
+        "de": "Klettern",
+        "nb": "Klatring",
+        "fr": "Éscalade"
+    },
+    " Picking wild berries /mushrooms": {
+        "en": "Picking wild berries /mushrooms",
+        "es": "Recolección de bayas / setas",
+        "fi": "Marjojen/sienten poiminta",
+        "it": "Raccolta di frutti di bosco / funghi",
+        "de": "Beeren/Pilze sammeln",
+        "nb": "Plukke bær/sopp",
+        "fr": "Cueillette de baies/champignons"
+    },
+    " Campfire/ barbequing": {
+        "en": "Campfire/ barbequing",
+        "es": "Hoguera / barbacoa",
+        "fi": "Nuotiolla istuminen/grillaus",
+        "it": "Fuoco da campo / Grigliata",
+        "de": "Lagerfeuer/Grillen",
+        "nb": "Leirbål/grilling",
+        "fr": "Barbecue/ feu de camp"
+    },
+    " Backpacking": {
+        "en": "Backpacking",
+        "es": "Travesía de varios días",
+        "fi": "Reppureissaaminen",
+        "it": "Backpacking",
+        "de": "Trekking Bergtour",
+        "nb": "Backpacking",
+        "fr": "Tourisme pédestre"
+    },
+    " Photography": {
+        "en": "Photography",
+        "es": "Fotografía",
+        "fi": "Valokuvaus",
+        "it": "Fotografia",
+        "de": "Fotografieren",
+        "nb": "Fotografering",
+        "fr": "Photo"
+    },
+    " Water sports": {
+        "en": "Water sports",
+        "es": "Deportes acuáticos",
+        "fi": "Vesiurheilu",
+        "it": "Sport acquatici",
+        "de": "Wassersportarten",
+        "nb": "Vannaktiviteter",
+        "fr": "Sports aquatiques"
+    },
+    " Running": {
+        "en": "Running",
+        "es": "Correr",
+        "fi": "Juoksu",
+        "it": "Correre",
+        "de": "Laufen",
+        "nb": "Jogging",
+        "fr": "Course"
+    },
+    " Winter sports": {
+        "en": "Winter sports",
+        "es": "Deportes de invierno",
+        "fi": "Talviurheilu",
+        "it": "Sport invernali",
+        "de": "Wintersportarten",
+        "nb": "Vinteridrett",
+        "fr": "Jeux d’hiver"
+    },
+    " Other: ": {
+        "en": "Other: ",
+        "es": "Otros:",
+        "fi": "Muu: ",
+        "it": "Altri: ",
+        "de": "Anderer Besuchsgrund: ",
+        "nb": "Andre:",
+        "fr": "Autre"
+    },
+    "Q9. With whom did you conduct these activities today? choose only 1": {
+        "en": "Q9. With whom did you conduct these activities today? choose only 1",
+        "es": "Q9. ¿Con quién has realizado las actividades hoy? Elige una única opción",
+        "fi": "Q9. Kenen kanssa osallistuit tänään näihin aktiviteetteihin? valitse ainoastaan yksi",
+        "it": "Q9. Con chi hai fatto l’attività oggi? (Scegli soltanto una opzione)",
+        "de": "Q9. Wer hat dich heute bei deinem Ausflug begleitet? Bitte nur eine Antwort auswählen",
+        "nb": "Q9. Hvem utførte du disse aktivitene med i dag? velg kun 1",
+        "fr": "Q9. Avec qui avez-vous pris part a ces activitées aujourd’hui? choisissez seulement 1"
+    },
+    " Alone": {
+        "en": "Alone",
+        "es": "Sólo",
+        "fi": "Yksin",
+        "it": "Da solo",
+        "de": "Ich war alleine",
+        "nb": "Alene",
+        "fr": "Seul"
+    },
+    " Partner": {
+        "en": "Partner",
+        "es": "Pareja",
+        "fi": "Puoliso",
+        "it": "Compagno",
+        "de": "Mein/e Lebensgefährte/in",
+        "nb": "Samboer/ektefelle",
+        "fr": "Companion "
+    },
+    " Family": {
+        "en": "Family",
+        "es": "Familia",
+        "fi": "Perhe",
+        "it": "Famiglia",
+        "de": "Meine Familie",
+        "nb": "Familie",
+        "fr": "Famille"
+    },
+    " Friends / Colleagues": {
+        "en": "Friends / Colleagues",
+        "es": "Amigos / Compañeros",
+        "fi": "Ystävät / kollegat",
+        "it": "Amici / Colleghi",
+        "de": "Freunde / Kollegen",
+        "nb": "Venner/kolleger ",
+        "fr": "Amis/Collègues"
+    },
+    " Non-profit organized group": {
+        "en": "Non-profit organized group",
+        "es": "Grupo sin ánimo de lucro",
+        "fi": "Voittoa tavoittelematon järjestö/yhdistys",
+        "it": "Gruppo senza scopo di lucro",
+        "de": "eine gemeinnützige Gruppe",
+        "nb": "Organiserte grupper uten fortjeneste",
+        "fr": "Tour organisé par une ONG"
+    },
+    " Tourist company": {
+        "en": "Tourist company",
+        "es": "Compañía turística",
+        "fi": "Matkatoimisto/kaupallinen matkanjärjestäjä",
+        "it": "Impresa turistica",
+        "de": "Eine Reisegesellschaft",
+        "nb": "Turistbedrift",
+        "fr": "Compagnie touristique"
+    },
+    " Other: ": {
+        "en": "Other:",
+        "es": "Otro:",
+        "fi": "Muu:",
+        "it": "Altro:",
+        "de": "Andere:",
+        "nb": "Annet:",
+        "fr": "Autre"
+    },
+    "Recreational experience": {
+        "en": "Recreational experience",
+        "es": "Experiencia lúdica",
+        "fi": "Virkistyskokemukset",
+        "it": "Esperienza ricreativa",
+        "de": "Freizeiterlebnis",
+        "nb": "Rekreasjonsopplevelse",
+        "fr": "Expérience récréative"
+    },
+    "Q10. The visit today has been important for… ": {
+        "en": "Q10. The visit today has been important for… ",
+        "es": "Q10. La visita de hoy ha sido importante para…",
+        "fi": "Q10. Tämänpäiväinen vierailu oli tärkeä seuraavista syistä:",
+        "it": "Q10. La tua visita di oggi è stata importante per...",
+        "de": "Q10. Der heutige Besuch hat dazu beigetragen… ",
+        "nb": "Q10. Dagens besøk har vært viktig for….",
+        "fr": "Q10. la visite d’aujourd’hui a été importante pour…"
+    },
+    "5. Strongly agree": {
+        "en": "5. Strongly agree",
+        "es": "5. Totalmente de acuerdo",
+        "fi": "5. Vahvasti samaa mieltä",
+        "it": "5. Pienamente d’accordo",
+        "de": "5. Trifft vollkommen zu",
+        "nb": "5. Sterkt enig",
+        "fr": "5. Completement d’accord"
+    },
+    "4": {
+        "en": "4",
+        "es": "4",
+        "fi": "4",
+        "it": "4",
+        "de": "4",
+        "nb": "4",
+        "fr": "4"
+    },
+    "3": {
+        "en": "3",
+        "es": "3",
+        "fi": "3",
+        "it": "3",
+        "de": "3",
+        "nb": "3",
+        "fr": "3"
+    },
+    "2": {
+        "en": "2",
+        "es": "2",
+        "fi": "2",
+        "it": "2",
+        "de": "2",
+        "nb": "2",
+        "fr": "2"
+    },
+    "1. Strongly disagree": {
+        "en": "1. Strongly disagree",
+        "es": "1. Totalmente en desacuerdo",
+        "fi": "1. Vahvasti eri mieltä",
+        "it": "1. In forte disaccordo",
+        "de": "1. Trifft nicht zu",
+        "nb": "1. Sterkt uenig",
+        "fr": "1. Pas du tout d’accord"
+    },
+    "1. learning about the nature": {
+        "en": "1. Learning about the nature",
+        "es": "1. Aprender sobre la naturaleza",
+        "fi": "1. Luonnosta oppiminen",
+        "it": "1. Imparare sulla natura",
+        "de": "1. Über Natur zu lernen",
+        "nb": "1. Å lære om naturen",
+        "fr": "1. Apprendre sur la nature"
+    },
+    "2. being together with my family/friends": {
+        "en": "2. Being together with my family/friends",
+        "es": "2. Estar con mi familia/amigos",
+        "fi": "2. Yhdessäolo perheeni/ystävieni kanssa ",
+        "it": "2. Essere con la mia famiglia / i miei amici",
+        "de": "2. Zeit mit meiner Familie/meinen Freunden zu verbringen",
+        "nb": "2. Å være sammen med familie/venner",
+        "fr": "2. Etre ensemble avec ma famille/amis"
+    },
+    "3. my physical/mental health": {
+        "en": "3. My physical/mental health",
+        "es": "3. Mi salud física/mental",
+        "fi": "3. Fyysinen/henkinen terveys",
+        "it": "3. La mia salute fisica / mentale",
+        "de": "3. Meine physische/mentale Gesundheit zu stärken",
+        "nb": "3. Min fysiske/psykiske helse",
+        "fr": "3. Ma santé physique/mentale"
+    },
+    "4. inspiring me to create crafts, stories or other artistic work": {
+        "en": "4. Inspiring me to create crafts, stories or other artistic work",
+        "es": "4. Inspirarme para crear manualidades, historias o trabajos artísticos",
+        "fi": "4. Innoitus käsitöiden, kirjoitusten tai muun luovan ja taiteellisen työn luonnille",
+        "it": "4. Ispirarmi per creare prodotti artigianali, racconti o altri lavori artistici",
+        "de": "4. Inspiration für künstlerische Projekte zu liefern",
+        "nb": "4. Inspirere meg til å lage kunst/håndtverk, skrive historier eller annet kunstnerisk arbeid",
+        "fr": "4. I m’inspirer a créer et à m’exprimer d’une manière ou d’une autre"
+    },
+    "5. Nurturing a deeper meaning of nature; emotionally or spiritually": {
+        "en": "5. Nurturing a deeper meaning of nature; emotionally or spiritually",
+        "es": "5. Avivar un significado más profundo de la naturaleza, emocional o espiritual",
+        "fi": "5. Luonnon syvemmän merkityksen tiedostaminen tunne- tai hengellisellä tasolla. ",
+        "it": "5. Coltivare un significato più profondo della natura, emotivo o spirituale",
+        "de": "5. Meine emotionelle oder spirituelle Verbundenheit mit der Natur zu fördern",
+        "nb": "5. Å gi en dypere forståelse om naturen; emosjonelt eller spirituelt",
+        "fr": "5. Établir une plus grande connexion avec la nature"
+    },
+    "Q11. My experience today was negatively impacted by:": {
+        "en": "Q11. My experience today was negatively impacted by:",
+        "es": "Q11. Mi experiencia hoy ha sido negativamente afectada por:",
+        "fi": "Q11. Kokemukseeni vaikutti tänään kielteisesti",
+        "it": "Q11. La mia esperienza di oggi è stata negativa per colpa de...",
+        "de": "Q11. Mein heutiger Ausflug wurde von den folgenden Faktoren beeinträchtigt:",
+        "nb": "Q11. Min opplevelse i dag var negativt påvirket av:",
+        "fr": "Q11. Mon experience a été entachée par"
+    },
+    "1. Crowdedness": {
+        "en": "1. Crowdedness",
+        "es": "1. Multitud de turistas",
+        "fi": "1. Tungos, ihmispaljous",
+        "it": "1. Troppi turisti",
+        "de": "1. Überfüllung",
+        "nb": "1. Store folkemengder",
+        "fr": "1. La foule"
+    },
+    "2. Lack of facilities": {
+        "en": "2. Lack of facilities",
+        "es": "2. Escasez de servicios",
+        "fi": "2. Palveluiden puute",
+        "it": "2. Mancanza di strutture",
+        "de": "2. Mangel an Ausstattung",
+        "nb": "2. Mangel på fasiliteter",
+        "fr": "2. Le manque d’équipement/instalations "
+    },
+    "3. Motorized vehicles": {
+        "en": "3. Motorized vehicles",
+        "es": "3. Vehículos motorizados",
+        "fi": "3. Moottoriajoneuvot / -liikenne",
+        "it": "3. Automezzi motorizzati",
+        "de": "3. Kraftfahrzeuge",
+        "nb": "3. Motoriserte kjøretøy",
+        "fr": "3. Des véhicules motorisés"
+    },
+    "4. Vehicle roads/tracks": {
+        "en": "4. Vehicle roads/tracks",
+        "es": "4. Caminos para vehículos",
+        "fi": "4. Moottoriliikenteen urat",
+        "it": "4. Strade per veicoli ",
+        "de": "4. Straßen/Fahrzeugspuren",
+        "nb": "4. Veier/spor for kjøretøy",
+        "fr": "4. Des routes automobiles"
+    },
+    "5. Trail condition": {
+        "en": "5. Trail condition",
+        "es": "5. Condición de los caminos",
+        "fi": "5. Polkujen ja reittien kunto",
+        "it": "5. Condizione dei sentieri",
+        "de": "5. Zustand der Wege",
+        "nb": "5. Tilstand på stier",
+        "fr": "5. La condition du chemin"
+    },
+    "6. Other: ": {
+        "en": "6. Other:",
+        "es": "6. Otros:",
+        "fi": "6. Muu: ",
+        "it": "6. Altri ",
+        "de": "6. Andere Beeinträchtigungen:",
+        "nb": "6. Annet:",
+        "fr": "6. Autre"
+    },
+    "Q12. How would you rate your overall experience today? choose only 1": {
+        "en": "Q12. How would you rate your overall experience today? choose only 1",
+        "es": "Q12. ¿Qué calificación general le darías a la experiencia vivida hoy? Elige un único valor",
+        "fi": "Q12. Miten arvioisit tämänpäiväisen kokemuksesi kokonaisuutena? valitse ainoastaan yksi",
+        "it": "Q12. Come valuteresti l’esperienza di oggi? Scegli solo uno",
+        "de": "Q12. Wie würdest du deinen heutigen Ausflug insgesamt bewerten? bitte nur eine Antwort auswählen",
+        "nb": "Q12. Hvordan vil du vurdere totalopplevelsen din i dag? Velg kun 1",
+        "fr": "Q12. Quelle note donneriez-vous a votre expérience aujourd’hui ? choisissez 1"
+    },
+    "1. Disappointing": {
+        "en": "1. Disappointing",
+        "es": "1. Decepcionante",
+        "fi": "1. Pettymys",
+        "it": "1. Deludente",
+        "de": "1. Enttäuschend",
+        "nb": "1. Skuffende",
+        "fr": "1. Désappointant"
+    },
+    "2": {
+        "en": "2",
+        "es": "2",
+        "fi": "2",
+        "it": "2",
+        "de": "2",
+        "nb": "2",
+        "fr": "2"
+    },
+    "3": {
+        "en": "3",
+        "es": "3",
+        "fi": "3",
+        "it": "3",
+        "de": "3",
+        "nb": "3",
+        "fr": "3"
+    },
+    "4": {
+        "en": "4",
+        "es": "4",
+        "fi": "4",
+        "it": "4",
+        "de": "4",
+        "nb": "4",
+        "fr": "4"
+    },
+    "5. Very good": {
+        "en": "5. Very good",
+        "es": "5. Muy satisfactoria",
+        "fi": "5. Erittäin hyvä",
+        "it": "5. Molto soddisfacente",
+        "de": "5. Sehr gut",
+        "nb": "5. Meget tilfredstillende",
+        "fr": "5. Très bon"
+    },
+    "Q13. Leave any additional comment that you would like to make here:": {
+        "en": "Q13. Leave any additional comment that you would like to make here:",
+        "es": "Q13. Escribe a continuación cualquier comentario adicional que te gustará transmitirnos",
+        "fi": "Q13. Kirjoita tähän mitä tahansa lisähuomioita, joita haluat tehdä: ",
+        "it": "Q13. Scrivi adesso qualche commento che ti piaceresti fare:",
+        "de": "Q13. Hier hast du Platz für weitere Kommentare :",
+        "nb": "Q13. Legg igjen eventuelle tilleggskommentarer du har her:",
+        "fr": "Q13. Laissez un éventuel commentaire que vous voudriez faire"
+    },
+    "Q14. We would appreciate if we at a later stage could ask you few more questions. If so, please enter your email here:": {
+        "en": "Q14. We would appreciate if we at a later stage could ask you few more questions. If so, please enter your email here:",
+        "es": "Q14. Si quieres que te contactemos posteriormente por correo electrónico para responder a más preguntas, introduce la dirección de tu correo electrónico en el siguiente apartado:",
+        "fi": "Q14. Arvostaisimme kovasti jos voisimme myöhemmin kysyä sinulta vielä muutaman lisäkysymyksen. Jos tämä käy, ole hyvä ja kirjoita alle sähköpostiosoittesi: ",
+        "it": "Q14. Se sei d'accordo per essere contattato con eventuali domande, inserisci la tua email nello spazio seguente:",
+        "de": "Q14. Wir würden dich gerne an einem späteren Zeitpunkt kontaktieren um dir einige Fragen zu stellen. Gib deine Emailadresse hier an, falls du uns auf diese Weise helfen willst: ",
+        "nb": "Q14. Vi ville satt pris på om vi kunne stille deg noen flere spørsmål ved en senere anledning. Hvis det er greit, skriv inn e-post adressen din her:",
+        "fr": "Q14. nous apprécierions si nous pouvions vous poser quelques questions suplémentaires dans quelques temps. Si c’est le cas, veuilliex entrer votres adresse email ici:\n"
+    },
+    "Thank you very much for your participation! ": {
+        "en": "Thank you very much for your participation! ",
+        "es": "¡Muchas gracias por tu participación!",
+        "fi": "Suuri kiitos osallistumisesta tutkumukseen! ",
+        "it": "Molte grazie per la tua partecipazione!",
+        "de": "Vielen Dank für deine Mithilfe! ",
+        "nb": "Tusen takk for at du deltok!",
+        "fr": "Merci beaucoup pour votre participation!"
+    },
+    " Send": {
+        "en": "Send",
+        "es": "Enviar",
+        "fi": "Lähetä",
+        "it": "Inviare",
+        "de": "Absenden",
+        "nb": "Send",
+        "fr": "Envoyer"
+    }
+}
