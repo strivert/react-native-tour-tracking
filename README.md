@@ -1,6 +1,9 @@
 # Jotunheimen-tracking
 App for tracking user-submitted locations in Jotunheimen National Park, Norway. Part of a PhD project.
 
+![proto](https://content.screencast.com/users/prageer/folders/Default/media/b2d922d4-f371-4ba0-8e56-0c0daa294df4/jotunheimen-prototype-page-001.jpg
+)
+
 ## Run it locally
 
 To install, there are two steps:
