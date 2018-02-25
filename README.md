@@ -13,7 +13,7 @@ Also install the Exponent app on your phone if you want to test it on
 your device, otherwise you don't need to do anything for the simulator.
 2. Clone this repo and run `npm install`
   ```bash
-  git clone https://github.com/prageer/react-native-Jotunheimen-tracking.git
+  git clone https://github.com/strivert/react-native-Jotunheimen-tracking.git
   
   cd react-native-Jotunheimen-tracking
   npm install
